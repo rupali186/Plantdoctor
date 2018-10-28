@@ -1,0 +1,6 @@
+keras
+matplotlib
+imageio
+numpy
+scipy
+fastai
